@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/app.scss';
 const hola = 'hola';
 
 import '../styles/app.scss';
